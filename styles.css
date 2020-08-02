@@ -1,0 +1,50 @@
+body{
+  background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+  
+}
+#header{
+  text-align: center;
+ 
+}
+#card{
+  display : flex;
+  flex-direction: column;
+  background-color: greenyellow;
+  color: aliceblue;
+  position: absolute;
+  left: 35%;
+  right: 35%;
+  width: auto;
+ 
+}
+
+
+
+#flipButton{
+
+  background-color: lightgrey;
+  font-size: larger;
+  border-radius: 5px;
+  text-align: center;
+  
+  
+}
+
+.germanWord{
+  text-align: center;
+  vertical-align: middle;
+}
+.englishWord{
+  text-align: center;
+  vertical-align: middle;
+  }
+
+#nextButton{
+  background-color: lightgrey;
+  font-size: larger;
+  border-radius: 5px;
+  text-align: center;
+  
+}
